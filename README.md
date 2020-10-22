@@ -1,0 +1,2 @@
+# BullsAndCows-Game
+The game is played with 4 digits number.  Player and computer write a 4-digit secret number. The digits must be all different. Then, in turn, they try to guess the number and gives the number of matches for opponent. If the matching digits are in their right positions, they are "bulls", if in different positions, they are "cows". Example:  Secret number: 4271 Opponent's try: 1234 Answer: 1 bull and 2 cows. (The bull is "2", the cows are "4" and "1".) The first one to reveal the other's secret number in the fewest guesses wins the game.
