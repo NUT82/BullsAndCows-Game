@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Security.Cryptography;
 
-namespace TestGame1
+namespace BullsAndCows
 {
     class Program
     {
